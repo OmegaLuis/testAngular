@@ -1,0 +1,40 @@
+.header{
+    background-color: grey;
+    width: 100%;
+    height: 10rem;
+    text-align: center;
+    padding-top: 40px;
+    /* align-content: left; */
+}
+.tituloPrincipal{
+    /* text-align: center; */
+    float: left ;
+    margin: auto;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    margin: 40px;
+    /* margin-left: 10px; */
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 7rem;
+    
+
+}
+div{
+    font-family: arial;
+    /* text-align: center; */
+}
+.mensaje{
+    font-size: 1.3rem;
+}
